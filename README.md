@@ -2,6 +2,8 @@
 
 A clean, responsive Blog Preview Card component built using vanilla HTML and CSS.
 
+![Alt text](./images/active-states.jpg)
+
 ## Key Features & Benefits
 
 - **Clean and Simple:** Built using only vanilla HTML and CSS, making it lightweight and easy to understand.
