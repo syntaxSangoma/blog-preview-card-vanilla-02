@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Nkosinathi Dhanda">
+    <meta name="description" content="A responsive Blog Preview Card component built with vanilla HTML, and CSS">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Preview Card</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./images/favicon-32x32.png" type="image/x-icon">
+</head>
+
+<body>
+    <main class="blog-card">
+        <figure class="blog-card__hero-image">
+            <img src="./images/illustration-article.svg" alt="illustration-article" width="336" height="201">
+
+            <figcaption class="offscreen">illustration-article</figcaption>
+        </figure>
+
+        <section class="blog-card__content">
+            <div class="blog-card__label">Learning</div>
+
+            <p class="blog-card__publish-date">Publish <time datetime="2023-12-21">21 Dec 2023</time></p>
+
+            <a href="#">
+                <h1 class="blog-card__title">HTML & CSS foundations</h1>
+            </a>
+
+            <p class="blog-card__description">
+                These languages are the backbone of every website, defining structure, content, and presentation.
+            </p>
+        </section>
+
+        <section class="blog-card__avatar-group">
+            <figure class="blog-card__avatar-image">
+                <img src="./images/image-avatar.webp" alt="image-avatar" width="64" height="65">
+                <figcaption class="offscreen">image-avatar</figcaption>
+            </figure>
+
+            <p class="blog-card__author-name">Greg Hooper</p>
+        </section>
+    </main>
+</body>
+
+</html>
