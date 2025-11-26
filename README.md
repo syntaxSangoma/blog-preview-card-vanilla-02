@@ -2,7 +2,7 @@
 
 A clean, responsive Blog Preview Card component built using vanilla HTML and CSS.
 
-![Alt text](./images/my-picture.png)
+![Alt text](./images/active-states.jpg)
 
 ## Key Features & Benefits
 
