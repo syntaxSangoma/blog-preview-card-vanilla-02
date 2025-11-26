@@ -1,4 +1,4 @@
-# Blog Preview Card (Vanilla)
+# Blog Preview Card (Vanilla Web)
 
 A clean, responsive Blog Preview Card component built using vanilla HTML and CSS.
 
